@@ -1,1 +1,1 @@
-All kinds of examples written in C language
+All kinds of examples written in C/C++ language
